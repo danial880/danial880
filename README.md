@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Giga Vision](https://github.com/danial880/GigaVision)
 
-- 🌱 I’m currently learning **docker**
+- 🌱 I’m currently learning **advance docker**
 
 - 📫 How to reach me **danialkhan1594@gmail.com**
 
