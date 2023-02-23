@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Danial Khan</h1>
-<h3 align="center">A passionate computer vision and deep learning developer from Pakistan</h3>
+<h3 align="center">A computer vision and deep learning developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Giga Vision](https://github.com/danial880/GigaVision)
 
